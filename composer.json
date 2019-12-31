@@ -1,8 +1,8 @@
 {
-  "name": "clevephp/kafka", 
+  "name": "clevephp/mysqlcache", 
   "description": "ClevePHP mservice Drives",  
   "keywords": [  
-    "kafka",
+    "cache",
     "mservice"
   ],
   "type": "library",  
